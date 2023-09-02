@@ -13,6 +13,7 @@ export const Greet = (props: greetProps) =>{
                props.isLoggedin ? `Welcome to react with typescript.. ${props.name}!!!..You have ${msgCount} unread messages..`
                : `welcome guest`
             }
+            <h2>Using git hub</h2>
         </div>
     )
 }
