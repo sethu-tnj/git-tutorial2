@@ -16,6 +16,7 @@ export const Greet = (props: greetProps) =>{
             <h2>Using git hub with commands..</h2>
 
             <h2>New way to learning from here..</h2>
+            <h2> new clone</h2>
         </div>
     )
 }
